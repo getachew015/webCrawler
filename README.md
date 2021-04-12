@@ -10,5 +10,10 @@ I. About
 
 II. Download, Build, Test and Run
 
-   Source code is available on git repository with the link
+   Source code is available on a github repository with the link https://github.com/getachew015/webCrawler.git and please download and use maven to build the project.
+   There are test cases written to perform unit tests and application runs on port 5000 at localhost. The steps should be easier
+      1. Download source code and unzip folder to favorite location
+      2. Cd to the unzipped project folder and do a mvn clean install; test should pass and project should compile.
+      3. Cd to the /target folder and locate the jar file.
+      4. 
 
