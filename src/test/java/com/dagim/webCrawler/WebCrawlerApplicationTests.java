@@ -1,13 +1,16 @@
 package com.dagim.webCrawler;
 
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WebCrawlerApplicationTests {
+public class WebCrawlerApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
+		Assertions.assertTrue(true);
 	}
-
+	
+	
 }

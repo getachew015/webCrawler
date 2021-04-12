@@ -48,6 +48,8 @@ public class CrawlerServiceUtil {
     	    printWriter = new PrintWriter(fileWriter);
     	    this.rootUrlString = url;
     	    fetchLinksOnPage(url);
+    	    printWriter.println("************ End Of Crawling *************");
+    		printWriter.flush();
 		} catch (IOException e) {
 			
 			e.printStackTrace();
