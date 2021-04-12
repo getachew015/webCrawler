@@ -15,7 +15,7 @@ II. Download, Build, Test and Run
    There are test cases written to perform unit tests and application runs on port 5000 at localhost. The steps should be as below 
    
       1. Download source code and unzip folder to favorite location
-      2. Cd to the unzipped project folder and do a mvn clean install; test should pass and project should compile.
+      2. Cd to the unzipped project folder and execute a "mvn clean install"; test should pass and project should compile.
       3. Cd to the /target folder and locate the jar file webCrawler-0.0.1-SNAPSHOT.jar.
       4. run application with java -jar webCrawler-0.0.1-SNAPSHOT.jar and should be up and running on port 5000
       5. Test with a web page url of interest and the web crawling happens on a separate thread but user must recieve a success message.
