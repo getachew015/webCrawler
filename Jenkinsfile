@@ -12,7 +12,7 @@ pipeline {
         }
         stage('Build') {
             steps {
-                echo 'Building..'
+                sh 'mvn clean install -f WebCrawler/pom.xml'
             }
         }
         stage('Test') {
