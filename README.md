@@ -6,7 +6,7 @@ I. About
 
    This simple web crawler app accepts a web page address from user through an Api made available
    at http://localhost:5000/swagger-ui/ via swagger-ui or using API development client tools like Postman at http://localhost:5000/crawl-api/fetchLinks.
-   User must send a POST request at the end point mentioned above with a request body of { "url": "url address of interest" } e.g https://wiprodigital.com and expect a 2XX sucess message.
+   User must send a POST request at the end point mentioned above with a request body of { "url": "url address of interest" } e.g {"url": "https://wiprodigital.com"} and expect a 2XX sucess message.
    It is written in java-8 and used springboot with jsoup a web crawling tool. Extracrted links will be written to a *.txt file that is going to be created at the root directory of the project.
 
 II. Download, Build, Test and Run
