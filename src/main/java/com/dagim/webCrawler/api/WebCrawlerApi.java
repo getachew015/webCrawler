@@ -12,7 +12,7 @@ import com.dagim.webCrawler.service.WebCrawlerService;
 
 
 @RestController
-@RequestMapping("/crawl-api/")
+@RequestMapping("/crawl-api")
 public class WebCrawlerApi {
 
 	

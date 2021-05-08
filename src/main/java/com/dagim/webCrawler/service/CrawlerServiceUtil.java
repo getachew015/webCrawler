@@ -50,11 +50,12 @@ public class CrawlerServiceUtil {
     	    fetchLinksOnPage(url);
     	    printWriter.println("************ End Of Crawling *************");
     		printWriter.flush();
+			printWriter.close();
+			fileWriter.close();
 		} catch (IOException e) {
 			
 			e.printStackTrace();
 			logger.debug(e.getMessage());
-			printWriter.close();
 		}
 	    
 	    return CompletableFuture.completedFuture(crawledUrls);
@@ -78,6 +79,7 @@ public class CrawlerServiceUtil {
             	if(crawledUrlHost.contains(rootUrlHost)) {
             		crawledUrls.add(url);
             		printWriter.println(url);
+            		System.out.println(url);
             		printWriter.flush();
             	}else 
             		return;

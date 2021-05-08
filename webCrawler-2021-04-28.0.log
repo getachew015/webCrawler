@@ -1,0 +1,316 @@
+2021-04-28 10:15:08.373  INFO 2256 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:15:10.799  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 2256 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:15:10.800  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:15:11.369  INFO 2256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:15:11.370  INFO 2256 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:15:11.370  INFO 2256 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:15:11.398  INFO 2256 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:15:11.398  INFO 2256 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 596 ms
+2021-04-28 10:15:11.626  INFO 2256 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:15:11.643  INFO 2256 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:15:11.643  INFO 2256 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:15:11.673  INFO 2256 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:15:11.739  INFO 2256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:15:11.823  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 1.056 seconds (JVM running for 81430.01)
+2021-04-28 10:15:11.825  INFO 2256 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:15:38.425  INFO 2256 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:15:38.535  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 2256 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:15:38.535  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:15:38.971  INFO 2256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:15:38.972  INFO 2256 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:15:38.972  INFO 2256 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:15:38.990  INFO 2256 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:15:38.990  INFO 2256 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 453 ms
+2021-04-28 10:15:39.150  INFO 2256 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:15:39.164  INFO 2256 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:15:39.164  INFO 2256 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:15:39.186  INFO 2256 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:15:39.276  INFO 2256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:15:39.365  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.86 seconds (JVM running for 81457.552)
+2021-04-28 10:15:39.367  INFO 2256 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:15:40.704  INFO 2256 --- [Thread-16] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:15:40.772  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 2256 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:15:40.772  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:15:41.144  INFO 2256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:15:41.145  INFO 2256 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:15:41.145  INFO 2256 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:15:41.161  INFO 2256 --- [restartedMain] o.a.c.c.C.[Tomcat-1].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:15:41.161  INFO 2256 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 387 ms
+2021-04-28 10:15:41.287  INFO 2256 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:15:41.300  INFO 2256 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:15:41.300  INFO 2256 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:15:41.320  INFO 2256 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:15:41.371  INFO 2256 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:15:41.443  INFO 2256 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.693 seconds (JVM running for 81459.63)
+2021-04-28 10:15:41.445  INFO 2256 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:15:47.514  INFO 2256 --- [RMI TCP Connection(901)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-04-28 10:15:47.542  INFO 2256 --- [RMI TCP Connection(901)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:16:51.848  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:16:51.850  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:16:51.898  INFO 10328 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-28 10:16:51.899  INFO 10328 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-28 10:16:53.369  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:16:53.377  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:16:53.377  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:16:53.457  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:16:53.457  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1558 ms
+2021-04-28 10:16:54.502  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:16:54.610  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:16:54.615  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:16:54.770  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:16:55.188  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:16:55.681  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 4.211 seconds (JVM running for 4.988)
+2021-04-28 10:17:51.982  INFO 10328 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:17:51.982  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:17:51.984  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-04-28 10:19:23.662  INFO 10328 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:19:23.734  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:19:23.734  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:19:24.322  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:19:24.323  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:19:24.323  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:19:24.344  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:19:24.345  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 608 ms
+2021-04-28 10:19:24.529  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:19:24.547  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:19:24.548  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:19:24.568  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:19:24.680  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:19:24.774  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 1.065 seconds (JVM running for 154.08)
+2021-04-28 10:19:24.776  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:19:26.131  INFO 10328 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:19:41.118  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:19:41.118  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:19:41.630  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:19:41.631  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:19:41.631  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:19:41.650  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-2].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:19:41.650  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 528 ms
+2021-04-28 10:19:41.828  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:19:41.846  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:19:41.846  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:19:41.868  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:19:41.968  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:19:42.077  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.982 seconds (JVM running for 171.383)
+2021-04-28 10:19:42.079  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:19:57.716  INFO 10328 --- [Thread-13] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:20:00.186  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:20:00.187  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:20:00.598  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:20:00.599  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:20:00.599  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:20:00.617  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-3].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:20:00.617  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 428 ms
+2021-04-28 10:20:00.971  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:20:00.989  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:20:00.989  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:20:01.009  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:20:01.106  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:20:01.201  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 1.034 seconds (JVM running for 190.507)
+2021-04-28 10:20:01.203  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:20:59.556  INFO 10328 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat-3].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:20:59.557  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:20:59.560  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-04-28 10:28:16.373  INFO 10328 --- [Thread-26] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:28:16.500  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:28:16.501  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:28:17.152  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:28:17.153  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:28:17.154  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:28:17.179  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-3].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:28:17.179  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 676 ms
+2021-04-28 10:28:17.442  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:28:17.472  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:28:17.473  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:28:17.503  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:28:17.614  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:28:17.714  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 1.236 seconds (JVM running for 687.02)
+2021-04-28 10:28:17.716  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:28:19.042  INFO 10328 --- [Thread-35] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:28:19.138  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:28:19.139  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:28:19.590  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:28:19.591  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:28:19.591  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:28:19.609  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-3].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:28:19.609  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 467 ms
+2021-04-28 10:28:19.821  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:28:19.853  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:28:19.854  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:28:19.883  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:28:20.006  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:28:20.127  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 1.01 seconds (JVM running for 689.434)
+2021-04-28 10:28:20.129  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:32:54.617  INFO 10328 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat-3].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:32:54.617  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:32:54.620  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-04-28 10:33:33.820  INFO 10328 --- [Thread-40] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:33:33.928  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:33:33.929  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:33:34.343  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:33:34.343  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:33:34.343  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:33:34.361  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-3].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:33:34.361  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 430 ms
+2021-04-28 10:33:34.529  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:33:34.545  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:33:34.546  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:33:34.566  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:33:34.681  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:33:34.758  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.857 seconds (JVM running for 1004.065)
+2021-04-28 10:33:34.760  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:34:08.809  INFO 10328 --- [Thread-45] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:34:11.245  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:34:11.245  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:34:11.645  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:34:11.646  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:34:11.646  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:34:11.664  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-4].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:34:11.664  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 417 ms
+2021-04-28 10:34:11.840  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:34:11.857  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:34:11.857  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:34:11.876  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:34:11.970  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:34:12.044  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.818 seconds (JVM running for 1041.351)
+2021-04-28 10:34:12.047  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:34:29.208  INFO 10328 --- [Thread-50] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:34:29.302  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:34:29.303  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:34:29.728  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:34:29.729  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:34:29.729  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:34:29.747  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-4].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:34:29.747  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 442 ms
+2021-04-28 10:34:29.905  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:34:29.922  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:34:29.923  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:34:29.942  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:34:30.030  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:34:30.107  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.823 seconds (JVM running for 1059.414)
+2021-04-28 10:34:30.109  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:34:37.465  INFO 10328 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat-4].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:34:37.465  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:34:37.469  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2021-04-28 10:35:43.054  INFO 10328 --- [Thread-59] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:35:45.399  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:35:45.399  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:35:45.820  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:35:45.820  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:35:45.821  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:35:45.840  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-5].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:35:45.841  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 440 ms
+2021-04-28 10:35:46.005  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:35:46.022  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:35:46.023  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:35:46.043  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:35:46.183  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:35:46.269  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.9 seconds (JVM running for 1135.576)
+2021-04-28 10:35:46.271  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:35:54.796  INFO 10328 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat-5].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:35:54.796  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:35:54.800  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2021-04-28 10:38:20.241  INFO 10328 --- [Thread-64] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:38:22.764  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 10328 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:38:22.764  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:38:23.173  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:38:23.173  INFO 10328 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:38:23.173  INFO 10328 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:38:23.191  INFO 10328 --- [restartedMain] o.a.c.c.C.[Tomcat-6].[localhost].[/]     : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:38:23.191  INFO 10328 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 425 ms
+2021-04-28 10:38:23.349  INFO 10328 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:38:23.369  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:38:23.369  INFO 10328 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:38:23.391  INFO 10328 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:38:23.485  INFO 10328 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:38:23.574  INFO 10328 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 0.828 seconds (JVM running for 1292.88)
+2021-04-28 10:38:23.576  INFO 10328 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:38:37.978  INFO 10328 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat-6].[localhost].[/]     : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:38:37.978  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:38:37.979  INFO 10328 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2021-04-28 10:38:46.063  INFO 10328 --- [RMI TCP Connection(27)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2021-04-28 10:38:46.088  INFO 10328 --- [RMI TCP Connection(27)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:39:23.710  INFO 11244 --- [main] c.d.webCrawler.api.WebCrawlerApiTest     : Starting WebCrawlerApiTest using Java 15.0.2 on DESKTOP-1UO7TTD with PID 11244 (started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:39:23.714  INFO 11244 --- [main] c.d.webCrawler.api.WebCrawlerApiTest     : No active profile set, falling back to default profiles: default
+2021-04-28 10:39:26.427  INFO 11244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:39:26.441  INFO 11244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:39:26.987  INFO 11244 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2021-04-28 10:39:26.987  INFO 11244 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2021-04-28 10:39:26.989  INFO 11244 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2021-04-28 10:39:27.336  INFO 11244 --- [main] c.d.webCrawler.api.WebCrawlerApiTest     : Started WebCrawlerApiTest in 4.192 seconds (JVM running for 5.363)
+2021-04-28 10:39:27.542  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.dagim.webCrawler.service.CrawlerServiceUtilTest], using SpringBootContextLoader
+2021-04-28 10:39:27.544  INFO 11244 --- [main] o.s.t.c.support.AbstractContextLoader    : Could not detect default resource locations for test class [com.dagim.webCrawler.service.CrawlerServiceUtilTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2021-04-28 10:39:27.545  INFO 11244 --- [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.dagim.webCrawler.service.CrawlerServiceUtilTest]: CrawlerServiceUtilTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2021-04-28 10:39:27.568  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.dagim.webCrawler.WebCrawlerApplication for test class com.dagim.webCrawler.service.CrawlerServiceUtilTest
+2021-04-28 10:39:27.586  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-04-28 10:39:27.587  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@6d7556a8, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@48860139, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@7e0883f3, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@ca60688, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4ba1c1a2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@33568e26, org.springframework.test.context.transaction.TransactionalTestExecutionListener@97b84a4, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@35555145, org.springframework.test.context.event.EventPublishingTestExecutionListener@70bc3a9c, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@771cbd13, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@229749f0, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@3d57fb9e, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@2c2e5e72, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@3e489ac1, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@26888c31]
+2021-04-28 10:39:27.631  INFO 11244 --- [main] c.d.w.service.CrawlerServiceUtilTest     : Starting CrawlerServiceUtilTest using Java 15.0.2 on DESKTOP-1UO7TTD with PID 11244 (started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:39:27.632  INFO 11244 --- [main] c.d.w.service.CrawlerServiceUtilTest     : No active profile set, falling back to default profiles: default
+2021-04-28 10:39:29.561  INFO 11244 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:39:29.708  INFO 11244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:39:29.715  INFO 11244 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:39:30.592  INFO 11244 --- [main] c.d.w.service.CrawlerServiceUtilTest     : Started CrawlerServiceUtilTest in 3.0 seconds (JVM running for 8.619)
+2021-04-28 10:39:31.404  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.dagim.webCrawler.WebCrawlerApplicationTests], using SpringBootContextLoader
+2021-04-28 10:39:31.405  INFO 11244 --- [main] o.s.t.c.support.AbstractContextLoader    : Could not detect default resource locations for test class [com.dagim.webCrawler.WebCrawlerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2021-04-28 10:39:31.406  INFO 11244 --- [main] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.dagim.webCrawler.WebCrawlerApplicationTests]: WebCrawlerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2021-04-28 10:39:31.413  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.dagim.webCrawler.WebCrawlerApplication for test class com.dagim.webCrawler.WebCrawlerApplicationTests
+2021-04-28 10:39:31.416  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-04-28 10:39:31.417  INFO 11244 --- [main] .b.t.c.SpringBootTestContextBootstrapper : Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5ac8916d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@7375ebe7, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@16a7af5d, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@207358ad, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3e2ee637, org.springframework.test.context.support.DirtiesContextTestExecutionListener@62d818c6, org.springframework.test.context.transaction.TransactionalTestExecutionListener@492e9e87, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@7322013f, org.springframework.test.context.event.EventPublishingTestExecutionListener@3a744e32, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@18487f92, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@252f00ba, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@4667c6d9, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5efa05f9, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@515555b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@58e2af93]
+2021-04-28 10:39:31.440  INFO 11244 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:39:31.441  INFO 11244 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:39:44.633  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 19352 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:39:44.635  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:39:44.677  INFO 19352 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-04-28 10:39:44.678  INFO 19352 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-04-28 10:39:46.085  INFO 19352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:39:46.093  INFO 19352 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:39:46.094  INFO 19352 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:39:46.166  INFO 19352 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:39:46.166  INFO 19352 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1488 ms
+2021-04-28 10:39:47.201  INFO 19352 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:39:47.307  INFO 19352 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:39:47.313  INFO 19352 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:39:47.462  INFO 19352 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:39:47.884  INFO 19352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:39:48.317  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 4.157 seconds (JVM running for 4.907)
+2021-04-28 10:39:50.373  INFO 19352 --- [RMI TCP Connection(3)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:39:50.373  INFO 19352 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:39:50.375  INFO 19352 --- [RMI TCP Connection(3)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-04-28 10:48:25.823  INFO 19352 --- [Thread-4] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:48:25.921  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 19352 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:48:25.921  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:48:26.437  INFO 19352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:48:26.438  INFO 19352 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:48:26.438  INFO 19352 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:48:26.463  INFO 19352 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:48:26.463  INFO 19352 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 539 ms
+2021-04-28 10:48:26.689  INFO 19352 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:48:26.710  INFO 19352 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:48:26.711  INFO 19352 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:48:26.734  INFO 19352 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:48:26.855  INFO 19352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:48:26.955  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 1.068 seconds (JVM running for 523.545)
+2021-04-28 10:48:26.958  INFO 19352 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:48:31.098  INFO 19352 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:48:31.099  INFO 19352 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:48:31.101  INFO 19352 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2021-04-28 10:49:05.738  WARN 19352 --- [http-nio-5000-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-04-28 10:49:05.746  WARN 19352 --- [http-nio-5000-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-04-28 10:53:22.569  INFO 19352 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:53:22.644  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Starting WebCrawlerApplication using Java 15.0.2 on DESKTOP-1UO7TTD with PID 19352 (C:\Users\Dagim\Downloads\webCrawler\target\classes started by Dagim in C:\Users\Dagim\Downloads\webCrawler)
+2021-04-28 10:53:22.644  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : No active profile set, falling back to default profiles: default
+2021-04-28 10:53:23.090  INFO 19352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 5000 (http)
+2021-04-28 10:53:23.091  INFO 19352 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-04-28 10:53:23.091  INFO 19352 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-04-28 10:53:23.121  INFO 19352 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-04-28 10:53:23.121  INFO 19352 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 475 ms
+2021-04-28 10:53:23.321  INFO 19352 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+2021-04-28 10:53:23.344  INFO 19352 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService
+2021-04-28 10:53:23.344  INFO 19352 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'webCrawlerTaskExecutor'
+2021-04-28 10:53:23.366  INFO 19352 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-04-28 10:53:23.470  INFO 19352 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 5000 (http) with context path ''
+2021-04-28 10:53:23.671  INFO 19352 --- [restartedMain] c.d.webCrawler.WebCrawlerApplication     : Started WebCrawlerApplication in 1.052 seconds (JVM running for 820.262)
+2021-04-28 10:53:23.673  INFO 19352 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2021-04-28 10:53:37.063  INFO 19352 --- [http-nio-5000-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-04-28 10:53:37.063  INFO 19352 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-04-28 10:53:37.065  INFO 19352 --- [http-nio-5000-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
