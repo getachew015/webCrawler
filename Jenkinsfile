@@ -2,7 +2,7 @@ pipeline {
     agent {
         docker {
             image "maven:3.8.1-jdk-8"
-            label "lts"
+            label "docker"
         }
     }
     stages {
