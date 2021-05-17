@@ -1,12 +1,11 @@
 pipeline {
-    agent any
-
+    agent { 
+		docker{
+	 		image "maven:3.8.1-jdk-8"
+	 		label "docker"	  	
+		  }
+	}
     stages {
-        stage('CheckOut') {
-            steps {
-                echo 'Checking Out..'
-            }
-        }
         stage('Build') {
             steps {
                 echo 'Building..'
