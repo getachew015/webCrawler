@@ -14,8 +14,10 @@ pipeline {
             }
         }
         stage('Code Quality Check'){
-        	withSonarQubeEnv('SonarQube') {
-        		sh "mvn sonar:sonar"
+        	steps {
+	        	withSonarQubeEnv('SonarQube') {
+	        		sh "mvn sonar:sonar"
+	        	}        	
         	}
         }
         stage('Deploy') {
