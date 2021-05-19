@@ -18,5 +18,10 @@ pipeline {
                 echo 'Deploying....'
             }
         }
+        stage('Code Quality Check'){
+        	steps {
+        		sh "mvn sonar:sonar"
+        	}
+        }
     }
 }
