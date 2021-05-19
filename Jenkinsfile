@@ -13,15 +13,15 @@ pipeline {
                 echo 'Testing..'
             }
         }
+        stage('Code Quality Check'){
+        	withSonarQubeEnv('SonarQube') {
+        		sh "mvn sonar:sonar"
+        	}
+        }
         stage('Deploy') {
             steps {
                 echo 'Deploying....'
             }
-        }
-        stage('Code Quality Check'){
-        	steps {
-        		sh "mvn sonar:sonar"
-        	}
         }
     }
 }
