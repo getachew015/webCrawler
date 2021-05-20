@@ -1,4 +1,4 @@
-package com.dagim.webCrawler.service;
+package com.dagim.webcrawler.service;
 
 import java.util.Set;
 import java.util.concurrent.CompletableFuture;
