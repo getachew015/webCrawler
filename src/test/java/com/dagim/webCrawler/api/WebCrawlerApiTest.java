@@ -10,8 +10,9 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 
-import com.dagim.webCrawler.model.UrlRequest;
-import com.dagim.webCrawler.service.WebCrawlerService;
+import com.dagim.webcrawler.api.WebCrawlerApi;
+import com.dagim.webcrawler.model.UrlRequest;
+import com.dagim.webcrawler.service.WebCrawlerService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 

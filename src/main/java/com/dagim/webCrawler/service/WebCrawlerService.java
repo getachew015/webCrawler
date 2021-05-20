@@ -1,11 +1,11 @@
-package com.dagim.webCrawler.service;
+package com.dagim.webcrawler.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
-import com.dagim.webCrawler.model.MessageResponse;
+import com.dagim.webcrawler.model.MessageResponse;
 
 
 
