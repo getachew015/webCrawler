@@ -1,4 +1,4 @@
-package com.dagim.webcrawler.model;
+package com.dagim.webCrawler.model;
 
 public class MessageResponse {
 	

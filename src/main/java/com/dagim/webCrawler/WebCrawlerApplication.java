@@ -1,4 +1,4 @@
-package com.dagim.webcrawler;
+package com.dagim.webCrawler;
 
 import java.util.concurrent.Executor;
 

@@ -1,4 +1,4 @@
-package com.dagim.webcrawler.service;
+package com.dagim.webCrawler.service;
 
 import java.io.FileWriter;
 import java.io.IOException;
