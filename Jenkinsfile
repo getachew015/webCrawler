@@ -19,7 +19,7 @@ pipeline {
         stage('Code Quality Check'){
         	steps {
 	            withSonarQubeEnv('SonarQube') {
-	                sh "mvn sonar:sonar -Dsonar.token=sqp_1bc2b10691bebe80392c36832cad77061b3c4b1a"
+	                sh "mvn sonar:sonar"
 	            }        	
             }
         }
