@@ -1,4 +1,4 @@
-package com.dagim.webcrawler;
+package com.dagim.webCrawler;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
