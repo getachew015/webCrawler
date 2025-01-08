@@ -19,7 +19,7 @@ public class WebCrawlerApiTest {
 	
 	@MockBean
 	private WebCrawlerService crawlerService;
-	
+	public static final String testUrl = "https://wiprodigital.com";
 	@Autowired
 	private MockMvc mockMvc;
 
@@ -27,7 +27,7 @@ public class WebCrawlerApiTest {
 	@Test
 	@DisplayName("should return a Response Entity with success Http Status")
 	public void testAcceptWebPageUrl() throws Exception {
-		String testUrl = "https://wiprodigital.com";
+
 
 		mockMvc.perform(MockMvcRequestBuilders
 				.post("/crawl-api/fetchLinks")
@@ -36,5 +36,10 @@ public class WebCrawlerApiTest {
 				.andExpect(MockMvcResultMatchers.status().is2xxSuccessful());
 	}
 
-	
+
+	@Test
+	void acceptWebPageUrl() {
+
+
+	}
 }
