@@ -19,7 +19,7 @@ pipeline {
         stage('Code Quality Check'){
         	steps {
 	            withSonarQubeEnv('SonarQube') {
-	                sh "mvn sonar:sonar -Dsonar.projectKey=crawler-api -Dsonar.projectName='crawler-api'"
+	                sh "mvn clean verify sonar:sonar -Dsonar.projectKey=crawler-api -Dsonar.projectName='crawler-api'"
 	            }        	
             }
         }
