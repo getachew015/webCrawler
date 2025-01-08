@@ -1,14 +1,13 @@
-package com.dagim.webCrawler.api;
+package com.dagim.webcrawler.api;
 
-import org.springframework.beans.factory.annotation.Autowired;
+import com.dagim.webcrawler.model.MessageResponse;
+import com.dagim.webcrawler.model.UrlRequest;
+import com.dagim.webcrawler.service.WebCrawlerService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.dagim.webCrawler.model.UrlRequest;
-import com.dagim.webCrawler.service.WebCrawlerService;
 
 
 
@@ -17,12 +16,15 @@ import com.dagim.webCrawler.service.WebCrawlerService;
 public class WebCrawlerApi {
 
 	
-	@Autowired
 	private WebCrawlerService crawlerService;
 
-	
+	public WebCrawlerApi(WebCrawlerService crawlerService) {
+		this.crawlerService = crawlerService;
+	}
+
+
 	@PostMapping(path = "/fetchLinks", consumes = "application/json")	
-	public ResponseEntity<?> acceptWebPageUrl(@RequestBody UrlRequest url){
+	public ResponseEntity<MessageResponse> acceptWebPageUrl(@RequestBody UrlRequest url){
 		
 		
 		return crawlerService.acceptWebPageUrl(url.getUrl());

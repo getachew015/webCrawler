@@ -1,4 +1,4 @@
-package com.dagim.webCrawler.service;
+package com.dagim.webcrawler.service;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;

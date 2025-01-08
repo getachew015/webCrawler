@@ -1,19 +1,19 @@
-package com.dagim.webCrawler.model;
+package com.dagim.webcrawler.model;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-class MessageResponseTest {
+class UrlRequestTest {
 
     @BeforeEach
     void setUp() {
     }
 
     @Test
-    void getResponseMessage() {
+    void getUrl() {
     }
 
     @Test
-    void setResponseMessage() {
+    void setUrl() {
     }
 }
