@@ -1,0 +1,36 @@
+name: Build and Run Feature JAR
+
+on:
+  push:
+    branches:
+      - 'feature/**' # Matches feature/login, feature/auth/v2, etc.
+      - 'develop'
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+          cache: maven
+
+      - name: Build JAR with Maven
+        run: mvn -B package --file pom.xml
+
+      - name: Run the built JAR
+        run: java -jar target/*.jar
+
+      # Optional: Save the JAR so you can download it from the Actions run page
+      - name: Upload JAR artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: feature-jar-${{ github.run_number }}
+          path: target/*.jar
