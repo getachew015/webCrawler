@@ -3,7 +3,7 @@
 
 name: Web Crawler App
 
-on:  push
+on:  [push, workflow_dispatch]
 #  release:
 #    types: [created]
 
